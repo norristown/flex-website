@@ -67,6 +67,7 @@ a {
     flex-direction: column;
     align-items: center;
 }
+
 .box {
     background-color: #f1f1f1;
     width: 200px;
@@ -94,7 +95,7 @@ a {
     margin: 0;
     padding: 100px;
     justify-content: center;
-    background:rgb(0, 255, 234);
+    background: rgb(0, 255, 234);
     font-size: 28px;
 }
 
@@ -115,13 +116,11 @@ a {
     justify-content: center;
     align-items: center;
     padding: 100px 300px;
-    
 }
 
-.bottom-info{
+.bottom-info {
     background: #3C79F5;
     display: flex;
-    
     padding: 32px 100px;
     justify-content: center;
     align-items: center;
@@ -155,8 +154,4 @@ a {
     align-items: center;
     justify-content: center;
     background-color: silver;
-}
-
-button {
-    
 }
